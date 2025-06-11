@@ -1,14 +1,14 @@
 <!-- README.md for https://github.com/gloria-auma -->
 
 <p align="center">
-  <img src="https://github.com/gloria-auma/gloria-auma/blob/main/banner.png" alt="Gloria Auma Banner" width="100%" />
+  <img src="https://github.com/EngGlo/EngGlo/blob/main/banner.png" alt="Gloria Auma Banner" width="100%" />
 </p>
 
 <h1 align="center">👩🏾‍💻 Gloria Auma</h1>
 <h3 align="center">Software Engineer | Cybersecurity Specialist | AI Researcher</h3>
 
 <p align="center">
-  <a href="mailto:gloria.auma@example.com"><img src="https://img.shields.io/badge/Email-gloria.auma@example.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:gloriaauma14"gmail.com"><img src="https://img.shields.io/badge/Email-gloria.auma@example.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/gloria-auma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Gloria_Auma-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://gloria-auma.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-gloria--auma.dev-29B6F6?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/gloria-auma"><img src="https://img.shields.io/github/followers/gloria-auma?label=Follow&style=social" /></a>
