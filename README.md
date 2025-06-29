@@ -20,9 +20,10 @@
 
 I'm a passionate software engineer with experience in:
 
-- 🧠 **Machine Learning & Medical Imaging** — GANs for MRI synthesis & CNN tumor detection  
+- 🧠 **Machine Learning & Medical Imaging** — GANs for MRI synthesis & CNN tumor detection
+- 🧠 **Data Science** — Lane Detection in Kaggle 
 - 🔐 **Cybersecurity & Compiler Design** — Lexical analyzers, Python parsers, stealth tools  
-- 🌐 **Web & Full Stack Development** — Laravel + Nuxt 3 + TypeScript + Tailwind CSS  
+- 🌐 **Web & Full Stack Development** — Laravel + Nuxt 3 + TypeScript +React +ExpressJs+NodeJs+Django+Flask+ Tailwind CSS  
 - 🛰 **Embedded Systems & SDR** — FPGA, USB 3.0 communication, and RaspiCar deployment
 
 I enjoy solving hard problems, building elegant UIs, and researching real-world AI applications.
