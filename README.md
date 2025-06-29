@@ -57,13 +57,14 @@ I enjoy solving hard problems, building elegant UIs, and researching real-world 
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/EngGlo/lane-detection-evaluator">
+  <a href=" https://github.com/EngGlo/lane-detection-comparator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=lane-detection-evaluator&theme=tokyonight" />
   </a>
+ 
   <a href="https://github.com/EngGlo/gan-brain-tumor-detector">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=gan-brain-tumor-detector&theme=tokyonight" />
   </a>
-  <a href="https://github.com/EngGlo/sdr-interface-prototype">
+  <a href="https://github.com/EngGlo/fluent-client-command/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=sdr-interface-prototype&theme=tokyonight" />
   </a>
   <a href="https://github.com/EngGlo/laravel-nuxt-event-system">
