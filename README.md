@@ -111,12 +111,37 @@ I'm a passionate **Software Engineer** specializing in cutting-edge technologies
 </div>
 
 <!-- GitHub Trophies - Always works -->
-<img src="https://github-profile-trophy.vercel.app/?username=EngGlo&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub Trophies" style="border-radius: 15px; width: 100%; margin-bottom: 30px;" />
-
-<!-- GitHub Contribution Chart - Always works -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); margin-bottom: 30px;">
-  <h3 style="color: #58a6ff; margin-top: 0;">📅 Contribution Calendar</h3>
-  <img src="https://ghchart.rshah.org/EngGlo" alt="EngGlo's Contribution Chart" width="100%" style="border-radius: 10px;" />
+<div align="center" style="background: linear-gradient(135deg, #1a1b26 0%, #24283b 100%); padding: 25px; border-radius: 15px; margin: 30px 0;">
+  
+  <h2 style="color: #7aa2f7; margin-top: 0;">🏆 GitHub Achievements</h2>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-top: 20px;">
+    
+    <div style="background: rgba(122, 162, 247, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
+      <div style="font-size: 36px;">⭐</div>
+      <div style="color: #7aa2f7; font-weight: bold;">Gold Stars</div>
+      <div style="color: #a9b1d6; font-size: 14px;">High-quality Repos</div>
+    </div>
+    
+    <div style="background: rgba(187, 154, 247, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
+      <div style="font-size: 36px;">🔥</div>
+      <div style="color: #bb9af7; font-weight: bold;">Commit Streak</div>
+      <div style="color: #a9b1d6; font-size: 14px;">Consistent Activity</div>
+    </div>
+    
+    <div style="background: rgba(243, 139, 168, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
+      <div style="font-size: 36px;">🚀</div>
+      <div style="color: #f38ba8; font-weight: bold;">Fast Mover</div>
+      <div style="color: #a9b1d6; font-size: 14px;">Quick Contributions</div>
+    </div>
+    
+    <div style="background: rgba(166, 227, 161, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
+      <div style="font-size: 36px;">💎</div>
+      <div style="color: #a6e3a1; font-weight: bold;">Perfectionist</div>
+      <div style="color: #a9b1d6; font-size: 14px;">Clean Code</div>
+    </div>
+    
+  </div>
 </div>
 
 </div>
