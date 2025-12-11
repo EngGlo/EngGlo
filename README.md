@@ -127,6 +127,8 @@ I'm a passionate **Software Engineer** specializing in cutting-edge technologies
 
 </div>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EngGlo&show_icons=true&count_private=true&hide=issues&theme=tokyonight&border_radius=10&custom_title=My+GitHub+Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngGlo&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" width="48%" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=EngGlo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" width="90%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngGlo&theme=tokyonight&hide_border=true&area=true" width="100%" /> </p>
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
