@@ -136,7 +136,7 @@ I'm a passionate **Software Engineer** specializing in cutting-edge technologies
 <img src="https://github-readme-stats.vercel.app/api?username=EngGlo&show_icons=true&count_private=true&hide=issues&theme=radical&border_radius=15&hide_border=false&bg_color=30,0d1117,161b22&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=Gloria's+GitHub+Stats&include_all_commits=true&card_width=450" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngGlo&layout=compact&theme=radical&border_radius=15&hide_border=false&bg_color=30,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=350" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);" />
+<img src="https://github-readme-stats.vercel.app/api?username=EngGlo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=21&show=reviews,discussions_started,discussions_answered" alt="GitHub Stats" />
 
 </div>
 
