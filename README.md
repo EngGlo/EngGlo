@@ -80,7 +80,8 @@
 </style>
 
 ---
-
+### 📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EngGlo&show_icons=true&count_private=true&hide=issues&theme=tokyonight&border_radius=10&custom_title=My+GitHub+Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngGlo&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" width="48%" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=EngGlo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" width="90%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngGlo&theme=tokyonight&hide_border=true&area=true" width="100%" /> </p>
 ## 🌟 About Me
 
 <div class="section-animate" style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 25px; border-radius: 15px; margin: 20px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
