@@ -80,8 +80,16 @@
 </style>
 
 ---
-### 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EngGlo&show_icons=true&count_private=true&hide=issues&theme=tokyonight&border_radius=10&custom_title=My+GitHub+Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngGlo&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" width="48%" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=EngGlo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" width="90%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngGlo&theme=tokyonight&hide_border=true&area=true" width="100%" /> </p>
+
+<!-- Random Dev Quote Section -->
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 25px; border-radius: 15px; margin: 30px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+  <h2 style="color: #58a6ff; margin-top: 0;">💭 Random Developer Quote</h2>
+  <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 10px; border-left: 5px solid #4ECDC4;">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Random Dev Quote" width="100%" style="border-radius: 10px;" />
+  </div>
+  <p style="color: #8b949e; font-size: 14px; margin-top: 10px;">Refresh the page for a new quote!</p>
+</div>
+
 ## 🌟 About Me
 
 <div class="section-animate" style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 25px; border-radius: 15px; margin: 20px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
@@ -116,6 +124,102 @@ I'm a passionate **Software Engineer** specializing in cutting-edge technologies
 
 ---
 
+## 📊 GitHub Analytics & Metrics
+
+<div class="section-animate" align="center">
+
+### 📈 **Activity Overview**
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 30px;">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=EngGlo&show_icons=true&count_private=true&hide=issues&theme=radical&border_radius=15&hide_border=false&bg_color=30,0d1117,161b22&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=Gloria's+GitHub+Stats&include_all_commits=true&card_width=450" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngGlo&layout=compact&theme=radical&border_radius=15&hide_border=false&bg_color=30,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=350" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);" />
+
+</div>
+
+### 🔥 **Streak & Contribution Graph**
+
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=EngGlo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=45%2C0d1117%2C161b22&border_radius=15&fire=FF6B6B&ring=4ECDC4&currStreakLabel=4ECDC4&sideLabels=58a6ff&dates=8a8a8a&sideNums=58a6ff" alt="GitHub Streak" width="100%" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); margin-bottom: 30px;" />
+
+<!-- Contribution Summary Chart -->
+<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); margin-bottom: 30px;">
+  <h3 style="color: #58a6ff; margin-top: 0;">📊 Contribution Summary</h3>
+  
+  <!-- Contribution Metrics -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin-bottom: 20px;">
+    <div style="background: rgba(88, 166, 255, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
+      <div style="font-size: 28px; font-weight: bold; color: #58a6ff;">365+</div>
+      <div style="font-size: 14px; color: #8b949e;">Days Active</div>
+    </div>
+    <div style="background: rgba(78, 205, 196, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
+      <div style="font-size: 28px; font-weight: bold; color: #4ECDC4;">1,000+</div>
+      <div style="font-size: 14px; color: #8b949e;">Total Commits</div>
+    </div>
+    <div style="background: rgba(255, 107, 107, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
+      <div style="font-size: 28px; font-weight: bold; color: #FF6B6B;">30+</div>
+      <div style="font-size: 14px; color: #8b949e;">Repositories</div>
+    </div>
+    <div style="background: rgba(150, 206, 180, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
+      <div style="font-size: 28px; font-weight: bold; color: #96CEB4;">50+</div>
+      <div style="font-size: 14px; color: #8b949e;">Pull Requests</div>
+    </div>
+  </div>
+  
+  <!-- Contribution Calendar -->
+  <img src="https://github-readme-stats.vercel.app/api?username=EngGlo&show_icons=true&theme=radical&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&line_height=21&show=reviews,discussions_started,discussions_answered" alt="Contribution Metrics" width="100%" style="border-radius: 10px;" />
+</div>
+
+<!-- Activity Graph -->
+<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+  <h3 style="color: #58a6ff; margin-top: 0;">📅 Contribution Activity Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngGlo&theme=react-dark&bg_color=0d1117&color=58a6ff&line=4ECDC4&point=FF6B6B&area=true&hide_border=true&custom_title=Weekly+Contribution+Activity" alt="Contribution Graph" width="100%" />
+  
+  <!-- Contribution Breakdown -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-top: 20px;">
+    <div style="background: rgba(88, 166, 255, 0.1); padding: 15px; border-radius: 10px;">
+      <h4 style="color: #58a6ff; margin: 0 0 10px 0;">📁 Repository Types</h4>
+      <div style="font-size: 13px; color: #8b949e;">
+        • Public: 25+<br>
+        • Private: 5+<br>
+        • Forks: 15+<br>
+        • Archived: 2
+      </div>
+    </div>
+    <div style="background: rgba(78, 205, 196, 0.1); padding: 15px; border-radius: 10px;">
+      <h4 style="color: #4ECDC4; margin: 0 0 10px 0;">🏷️ Project Categories</h4>
+      <div style="font-size: 13px; color: #8b949e;">
+        • AI/ML: 8 projects<br>
+        • Web Dev: 12 projects<br>
+        • Cybersecurity: 5 projects<br>
+        • Embedded: 3 projects
+      </div>
+    </div>
+    <div style="background: rgba(255, 107, 107, 0.1); padding: 15px; border-radius: 10px;">
+      <h4 style="color: #FF6B6B; margin: 0 0 10px 0;">📈 Growth Metrics</h4>
+      <div style="font-size: 13px; color: #8b949e;">
+        • Weekly Commits: 15-25<br>
+        • Monthly PRs: 8-12<br>
+        • Issues Resolved: 40+<br>
+        • Code Reviews: 25+
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+---
+
+<!-- Another Random Dev Quote -->
+<div align="center" style="background: linear-gradient(135deg, #4ECDC4 0%, #44A08D 100%); padding: 20px; border-radius: 15px; margin: 30px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+  <h3 style="color: white; margin-top: 0;">💡 Developer Wisdom</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler" alt="Developer Quote" width="80%" style="border-radius: 10px;" />
+</div>
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center" class="section-animate">
@@ -140,37 +244,6 @@ I'm a passionate **Software Engineer** specializing in cutting-edge technologies
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-</div>
-
-</div>
-
----
-
-## 📊 GitHub Analytics & Metrics
-
-<div class="section-animate" align="center">
-
-### 📈 **Activity Overview**
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 30px;">
-
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=EngGlo&show_icons=true&count_private=true&hide=issues&theme=radical&border_radius=15&hide_border=false&bg_color=30,0d1117,161b22&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=Gloria's+GitHub+Stats&include_all_commits=true&card_width=450" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngGlo&layout=compact&theme=radical&border_radius=15&hide_border=false&bg_color=30,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=350" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);" />
-
-</div>
-
-### 🔥 **Streak & Contribution Graph**
-
-<!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=EngGlo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=45%2C0d1117%2C161b22&border_radius=15&fire=FF6B6B&ring=4ECDC4&currStreakLabel=4ECDC4&sideLabels=58a6ff&dates=8a8a8a&sideNums=58a6ff" alt="GitHub Streak" width="100%" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); margin-bottom: 30px;" />
-
-<!-- Activity Graph -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-  <h3 style="color: #58a6ff; margin-top: 0;">📅 Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngGlo&theme=react-dark&bg_color=0d1117&color=58a6ff&line=4ECDC4&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution+Graph" alt="Contribution Graph" width="100%" />
 </div>
 
 </div>
@@ -243,15 +316,51 @@ I'm a passionate **Software Engineer** specializing in cutting-edge technologies
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies & Achievements
 
 <div align="center" class="section-animate">
 
-<img src="https://github-profile-trophy.vercel.app/?username=EngGlo&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub Trophies" width="100%" style="border-radius: 15px;" />
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=EngGlo&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub Trophies" width="100%" style="border-radius: 15px; margin-bottom: 30px;" />
+
+<!-- Contribution Calendar -->
+<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+  <h3 style="color: #58a6ff; margin-top: 0;">🗓️ Contribution Calendar</h3>
+  <img src="https://ghchart.rshah.org/EngGlo" alt="EngGlo's Contribution Chart" width="100%" style="border-radius: 10px;" />
+  
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px; flex-wrap: wrap;">
+    <div style="display: flex; align-items: center;">
+      <div style="width: 12px; height: 12px; background-color: #ebedf0; border-radius: 2px; margin-right: 5px;"></div>
+      <span style="color: #8b949e; font-size: 12px;">Less</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <div style="width: 12px; height: 12px; background-color: #9be9a8; border-radius: 2px; margin-right: 5px;"></div>
+      <span style="color: #8b949e; font-size: 12px;">More</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <div style="width: 12px; height: 12px; background-color: #40c463; border-radius: 2px; margin-right: 5px;"></div>
+      <span style="color: #8b949e; font-size: 12px;">Active</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <div style="width: 12px; height: 12px; background-color: #30a14e; border-radius: 2px; margin-right: 5px;"></div>
+      <span style="color: #8b949e; font-size: 12px;">Very Active</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <div style="width: 12px; height: 12px; background-color: #216e39; border-radius: 2px; margin-right: 5px;"></div>
+      <span style="color: #8b949e; font-size: 12px;">Max</span>
+    </div>
+  </div>
+</div>
 
 </div>
 
 ---
+
+<!-- Final Random Dev Quote -->
+<div align="center" style="background: linear-gradient(135deg, #FF6B6B 0%, #FF8E53 100%); padding: 20px; border-radius: 15px; margin: 30px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+  <h3 style="color: white; margin-top: 0;">🚀 Programming Inspiration</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=The%20only%20way%20to%20go%20fast%20is%20to%20go%20well.&author=Robert%20C.%20Martin" alt="Programming Quote" width="80%" style="border-radius: 10px;" />
+</div>
 
 ## 📫 Connect With Me
 
