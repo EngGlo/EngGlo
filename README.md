@@ -117,29 +117,10 @@ I'm a passionate **Software Engineer** specializing in cutting-edge technologies
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-top: 20px;">
     
-    <div style="background: rgba(122, 162, 247, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
-      <div style="font-size: 36px;">⭐</div>
-      <div style="color: #7aa2f7; font-weight: bold;">Gold Stars</div>
-      <div style="color: #a9b1d6; font-size: 14px;">High-quality Repos</div>
-    </div>
     
-    <div style="background: rgba(187, 154, 247, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
-      <div style="font-size: 36px;">🔥</div>
-      <div style="color: #bb9af7; font-weight: bold;">Commit Streak</div>
-      <div style="color: #a9b1d6; font-size: 14px;">Consistent Activity</div>
-    </div>
-    
-    <div style="background: rgba(243, 139, 168, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
-      <div style="font-size: 36px;">🚀</div>
-      <div style="color: #f38ba8; font-weight: bold;">Fast Mover</div>
-      <div style="color: #a9b1d6; font-size: 14px;">Quick Contributions</div>
-    </div>
-    
-    <div style="background: rgba(166, 227, 161, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
-      <div style="font-size: 36px;">💎</div>
-      <div style="color: #a6e3a1; font-weight: bold;">Perfectionist</div>
-      <div style="color: #a9b1d6; font-size: 14px;">Clean Code</div>
-    </div>
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EngGlo&theme=tokyonight" alt="GitHub Trophies" width="100%" />
+</p>
     
   </div>
 </div>
