@@ -4,7 +4,14 @@
 
 <!-- Animated Banner -->
 <img src="https://github.com/EngGlo/EngGlo/blob/main/banner.png" alt="Gloria Auma Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0, 255, 255, 0.3);" />
-
+<!-- Random Dev Quote Section -->
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 25px; border-radius: 15px; margin: 30px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+  <h2 style="color: #58a6ff; margin-top: 0;">💭 Random Developer Quote</h2>
+  <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 10px; border-left: 5px solid #4ECDC4;">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Random Dev Quote" width="100%" style="border-radius: 10px;" />
+  </div>
+  <p style="color: #8b949e; font-size: 14px; margin-top: 10px;">Refresh the page for a new quote!</p>
+</div>
 <!-- Animated Title -->
 <h1 align="center" style="margin-top: 20px;">
   <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FFEAA7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">👩🏾‍💻 Gloria Auma</span>
@@ -281,7 +288,11 @@ I'm a passionate **Software Engineer** specializing in cutting-edge technologies
 </div>
 
 </div>
-
+<!-- Another Random Dev Quote -->
+<div align="center" style="background: linear-gradient(135deg, #4ECDC4 0%, #44A08D 100%); padding: 20px; border-radius: 15px; margin: 30px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+  <h3 style="color: white; margin-top: 0;">💡 Developer Wisdom</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler" alt="Developer Quote" width="80%" style="border-radius: 10px;" />
+</div>
 ## 📫 Connect With Me
 
 <div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 30px; border-radius: 15px; margin: 40px 0;">
@@ -334,7 +345,11 @@ I'm a passionate **Software Engineer** specializing in cutting-edge technologies
 ---
 
 <div align="center">
-
+<!-- Final Random Dev Quote -->
+<div align="center" style="background: linear-gradient(135deg, #FF6B6B 0%, #FF8E53 100%); padding: 20px; border-radius: 15px; margin: 30px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+  <h3 style="color: white; margin-top: 0;">🚀 Programming Inspiration</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=The%20only%20way%20to%20go%20fast%20is%20to%20go%20well.&author=Robert%20C.%20Martin" alt="Programming Quote" width="80%" style="border-radius: 10px;" />
+</div>
 ### ⚡ **Quick Stats**
   
 ```text
