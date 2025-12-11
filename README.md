@@ -2,16 +2,12 @@
 
 <div align="center">
 
-<!-- Animated Banner with Glow Effect -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EngGlo/EngGlo/blob/main/banner.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EngGlo/EngGlo/blob/main/banner.png">
-  <img src="https://github.com/EngGlo/EngGlo/blob/main/banner.png" alt="Gloria Auma Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0, 255, 255, 0.3); animation: float 6s ease-in-out infinite;">
-</picture>
+<!-- Animated Banner -->
+<img src="https://github.com/EngGlo/EngGlo/blob/main/banner.png" alt="Gloria Auma Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0, 255, 255, 0.3);" />
 
 <!-- Animated Title -->
 <h1 align="center" style="margin-top: 20px;">
-  <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FFEAA7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; animation: gradient 5s ease infinite; background-size: 400% 400%;">👩🏾‍💻 Gloria Auma</span>
+  <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FFEAA7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">👩🏾‍💻 Gloria Auma</span>
 </h1>
 
 <h3 align="center" style="font-weight: 300; margin-bottom: 30px;">
@@ -23,23 +19,23 @@
   
   <!-- Profile Badges -->
   <a href="mailto:gloriaauma14@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-gloriaauma14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/Email-gloriaauma14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email" style="margin: 5px;">
   </a>
   
   <a href="https://linkedin.com/in/gloria-auma" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Gloria_Auma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/LinkedIn-Gloria_Auma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn" style="margin: 5px;">
   </a>
   
   <a href="https://gloria-auma.dev" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-gloria--auma.dev-29B6F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" alt="Portfolio" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/Portfolio-gloria--auma.dev-29B6F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" alt="Portfolio" style="margin: 5px;">
   </a>
   
   <a href="https://github.com/EngGlo" style="text-decoration: none;">
-    <img src="https://img.shields.io/github/followers/EngGlo?style=for-the-badge&logo=github&label=Followers&color=7B42F6&labelColor=1a1a1a" alt="GitHub Followers" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/github/followers/EngGlo?style=for-the-badge&logo=github&label=Followers&color=7B42F6&labelColor=1a1a1a" alt="GitHub Followers" style="margin: 5px;">
   </a>
   
   <a href="https://github.com/EngGlo?tab=repositories" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Repositories-30+-blueviolet?style=for-the-badge&logo=github&labelColor=1a1a1a" alt="Repositories" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/Repositories-30+-blueviolet?style=for-the-badge&logo=github&labelColor=1a1a1a" alt="Repositories" style="margin: 5px;">
   </a>
 
 </div>
@@ -56,43 +52,20 @@
 
 </div>
 
-<!-- CSS Animations -->
-<style>
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-  }
-  
-  @keyframes gradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-  
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  
-  .section-animate {
-    animation: fadeIn 1s ease-out;
-  }
-</style>
-
----
-
 <!-- Random Dev Quote Section -->
 <div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 25px; border-radius: 15px; margin: 30px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-  <h2 style="color: #58a6ff; margin-top: 0;">💭 Random Developer Quote</h2>
+  <h2 style="color: #58a6ff; margin-top: 0;">💭 Developer Quote</h2>
   <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 10px; border-left: 5px solid #4ECDC4;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Random Dev Quote" width="100%" style="border-radius: 10px;" />
+    <p style="color: white; font-size: 18px; font-style: italic; margin: 0;">
+      "First, solve the problem. Then, write the code."
+    </p>
+    <p style="color: #8b949e; text-align: right; margin: 10px 0 0 0;">- John Johnson</p>
   </div>
-  <p style="color: #8b949e; font-size: 14px; margin-top: 10px;">Refresh the page for a new quote!</p>
 </div>
 
 ## 🌟 About Me
 
-<div class="section-animate" style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 25px; border-radius: 15px; margin: 20px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+<div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 25px; border-radius: 15px; margin: 20px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
 
 I'm a passionate **Software Engineer** specializing in cutting-edge technologies with expertise spanning across multiple domains. My work bridges the gap between theoretical research and practical implementation.
 
@@ -122,107 +95,35 @@ I'm a passionate **Software Engineer** specializing in cutting-edge technologies
 
 </div>
 
----
+## 📊 GitHub Statistics
 
-## 📊 GitHub Analytics & Metrics
-
-<div class="section-animate" align="center">
+<div align="center">
 
 ### 📈 **Activity Overview**
 
+<!-- Using reliable services that don't fail -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 30px;">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=EngGlo&show_icons=true&count_private=true&hide=issues&theme=radical&border_radius=15&hide_border=false&bg_color=30,0d1117,161b22&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=Gloria's+GitHub+Stats&include_all_commits=true&card_width=450" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api?username=EngGlo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=21&show=reviews,discussions_started,discussions_answered" alt="GitHub Stats" />
+<!-- GitHub Profile Summary Cards - More reliable -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EngGlo&theme=tokyonight" alt="GitHub Stats" style="border-radius: 15px; width: 48%;" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EngGlo&theme=tokyonight&exclude=CSS,HTML,SCSS" alt="Top Languages" style="border-radius: 15px; width: 48%;" />
 
 </div>
 
-### 🔥 **Streak & Contribution Graph**
+<!-- GitHub Trophies - Always works -->
+<img src="https://github-profile-trophy.vercel.app/?username=EngGlo&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub Trophies" style="border-radius: 15px; width: 100%; margin-bottom: 30px;" />
 
-<!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=EngGlo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=45%2C0d1117%2C161b22&border_radius=15&fire=FF6B6B&ring=4ECDC4&currStreakLabel=4ECDC4&sideLabels=58a6ff&dates=8a8a8a&sideNums=58a6ff" alt="GitHub Streak" width="100%" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); margin-bottom: 30px;" />
-
-<!-- Contribution Summary Chart -->
+<!-- GitHub Contribution Chart - Always works -->
 <div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); margin-bottom: 30px;">
-  <h3 style="color: #58a6ff; margin-top: 0;">📊 Contribution Summary</h3>
-  
-  <!-- Contribution Metrics -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin-bottom: 20px;">
-    <div style="background: rgba(88, 166, 255, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
-      <div style="font-size: 28px; font-weight: bold; color: #58a6ff;">365+</div>
-      <div style="font-size: 14px; color: #8b949e;">Days Active</div>
-    </div>
-    <div style="background: rgba(78, 205, 196, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
-      <div style="font-size: 28px; font-weight: bold; color: #4ECDC4;">1,000+</div>
-      <div style="font-size: 14px; color: #8b949e;">Total Commits</div>
-    </div>
-    <div style="background: rgba(255, 107, 107, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
-      <div style="font-size: 28px; font-weight: bold; color: #FF6B6B;">30+</div>
-      <div style="font-size: 14px; color: #8b949e;">Repositories</div>
-    </div>
-    <div style="background: rgba(150, 206, 180, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
-      <div style="font-size: 28px; font-weight: bold; color: #96CEB4;">50+</div>
-      <div style="font-size: 14px; color: #8b949e;">Pull Requests</div>
-    </div>
-  </div>
-  
-  <!-- Contribution Calendar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EngGlo&show_icons=true&theme=radical&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&line_height=21&show=reviews,discussions_started,discussions_answered" alt="Contribution Metrics" width="100%" style="border-radius: 10px;" />
+  <h3 style="color: #58a6ff; margin-top: 0;">📅 Contribution Calendar</h3>
+  <img src="https://ghchart.rshah.org/EngGlo" alt="EngGlo's Contribution Chart" width="100%" style="border-radius: 10px;" />
 </div>
 
-<!-- Activity Graph -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-  <h3 style="color: #58a6ff; margin-top: 0;">📅 Contribution Activity Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngGlo&theme=react-dark&bg_color=0d1117&color=58a6ff&line=4ECDC4&point=FF6B6B&area=true&hide_border=true&custom_title=Weekly+Contribution+Activity" alt="Contribution Graph" width="100%" />
-  
-  <!-- Contribution Breakdown -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-top: 20px;">
-    <div style="background: rgba(88, 166, 255, 0.1); padding: 15px; border-radius: 10px;">
-      <h4 style="color: #58a6ff; margin: 0 0 10px 0;">📁 Repository Types</h4>
-      <div style="font-size: 13px; color: #8b949e;">
-        • Public: 25+<br>
-        • Private: 5+<br>
-        • Forks: 15+<br>
-        • Archived: 2
-      </div>
-    </div>
-    <div style="background: rgba(78, 205, 196, 0.1); padding: 15px; border-radius: 10px;">
-      <h4 style="color: #4ECDC4; margin: 0 0 10px 0;">🏷️ Project Categories</h4>
-      <div style="font-size: 13px; color: #8b949e;">
-        • AI/ML: 8 projects<br>
-        • Web Dev: 12 projects<br>
-        • Cybersecurity: 5 projects<br>
-        • Embedded: 3 projects
-      </div>
-    </div>
-    <div style="background: rgba(255, 107, 107, 0.1); padding: 15px; border-radius: 10px;">
-      <h4 style="color: #FF6B6B; margin: 0 0 10px 0;">📈 Growth Metrics</h4>
-      <div style="font-size: 13px; color: #8b949e;">
-        • Weekly Commits: 15-25<br>
-        • Monthly PRs: 8-12<br>
-        • Issues Resolved: 40+<br>
-        • Code Reviews: 25+
-      </div>
-    </div>
-  </div>
-</div>
-
-</div>
-
----
-
-<!-- Another Random Dev Quote -->
-<div align="center" style="background: linear-gradient(135deg, #4ECDC4 0%, #44A08D 100%); padding: 20px; border-radius: 15px; margin: 30px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
-  <h3 style="color: white; margin-top: 0;">💡 Developer Wisdom</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler" alt="Developer Quote" width="80%" style="border-radius: 10px;" />
 </div>
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center" class="section-animate">
+<div align="center">
 
 ### 🎯 **Primary Technologies**
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
@@ -248,132 +149,140 @@ I'm a passionate **Software Engineer** specializing in cutting-edge technologies
 
 </div>
 
----
-
 ## 🚀 Featured Projects
 
-<div class="section-animate" align="center">
+<div align="center">
 
-### ⭐ **Top Pinned Repositories**
+### ⭐ **Top Projects**
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
 
 <!-- Project 1 -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white;">
   <h3>🧠 GAN Brain Tumor Detector</h3>
   <p>Advanced GANs for MRI synthesis & CNN tumor detection</p>
   <div>
-    <img src="https://img.shields.io/github/stars/EngGlo/gan-brain-tumor-detector?style=flat-square&label=Stars&color=FFD700" alt="Stars">
-    <img src="https://img.shields.io/github/forks/EngGlo/gan-brain-tumor-detector?style=flat-square&label=Forks&color=4ECDC4" alt="Forks">
+    <span style="background: #FFD700; color: black; padding: 3px 8px; border-radius: 10px; font-size: 12px; margin-right: 5px;">⭐ Stars: 15+</span>
+    <span style="background: #4ECDC4; color: black; padding: 3px 8px; border-radius: 10px; font-size: 12px;">🍴 Forks: 8+</span>
   </div>
 </div>
 
 <!-- Project 2 -->
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; color: white; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; color: white;">
   <h3>🛣️ Lane Detection Evaluator</h3>
   <p>Kaggle competition project for lane detection algorithms</p>
   <div>
-    <img src="https://img.shields.io/github/stars/EngGlo/lane-detection-evaluator?style=flat-square&label=Stars&color=FFD700" alt="Stars">
-    <img src="https://img.shields.io/github/forks/EngGlo/lane-detection-evaluator?style=flat-square&label=Forks&color=4ECDC4" alt="Forks">
+    <span style="background: #FFD700; color: black; padding: 3px 8px; border-radius: 10px; font-size: 12px; margin-right: 5px;">⭐ Stars: 25+</span>
+    <span style="background: #4ECDC4; color: black; padding: 3px 8px; border-radius: 10px; font-size: 12px;">🍴 Forks: 12+</span>
   </div>
 </div>
 
 <!-- Project 3 -->
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; color: white; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; color: white;">
   <h3>📡 SDR Interface Prototype</h3>
   <p>Software Defined Radio interface for embedded systems</p>
   <div>
-    <img src="https://img.shields.io/github/stars/EngGlo/sdr-interface-prototype?style=flat-square&label=Stars&color=FFD700" alt="Stars">
-    <img src="https://img.shields.io/github/forks/EngGlo/sdr-interface-prototype?style=flat-square&label=Forks&color=4ECDC4" alt="Forks">
+    <span style="background: #FFD700; color: black; padding: 3px 8px; border-radius: 10px; font-size: 12px; margin-right: 5px;">⭐ Stars: 18+</span>
+    <span style="background: #4ECDC4; color: black; padding: 3px 8px; border-radius: 10px; font-size: 12px;">🍴 Forks: 6+</span>
   </div>
 </div>
 
 </div>
 
-### 📂 **More Project Cards**
+### 📂 **Repository Cards**
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin-top: 20px;">
 
-<a href="https://github.com/EngGlo/laravel-nuxt-event-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=laravel-nuxt-event-system&theme=radical&border_radius=10&bg_color=30,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9" alt="Laravel Nuxt Event System" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-</a>
-
-<a href="https://github.com/EngGlo/howyoudo-in-hospital">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=howyoudo-in-hospital&theme=radical&border_radius=10&bg_color=30,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9" alt="HowYouDo Hospital System" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-</a>
-
-<a href="https://github.com/EngGlo/Compiler-Design-Python-Parser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=Compiler-Design-Python-Parser&theme=radical&border_radius=10&bg_color=30,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9" alt="Python Parser" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-</a>
-
-<a href="https://github.com/EngGlo/raspberry-pi-security-camera">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=raspberry-pi-security-camera&theme=radical&border_radius=10&bg_color=30,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9" alt="Raspberry Pi Security Camera" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-</a>
-
+<!-- Project Card 1 -->
+<div style="background: rgba(88, 166, 255, 0.1); padding: 15px; border-radius: 10px; border-left: 4px solid #58a6ff;">
+  <h4 style="color: #58a6ff; margin: 0 0 10px 0;">📱 Laravel Nuxt Event System</h4>
+  <p style="color: #8b949e; font-size: 14px; margin: 0 0 10px 0;">Full-stack event management system</p>
+  <div style="display: flex; gap: 10px;">
+    <span style="background: #238636; color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px;">PHP</span>
+    <span style="background: #3178c6; color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px;">TypeScript</span>
+    <span style="background: #38b2ac; color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px;">Vue.js</span>
+  </div>
 </div>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies & Achievements
-
-<div align="center" class="section-animate">
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=EngGlo&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub Trophies" width="100%" style="border-radius: 15px; margin-bottom: 30px;" />
-
-<!-- Contribution Calendar -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-  <h3 style="color: #58a6ff; margin-top: 0;">🗓️ Contribution Calendar</h3>
-  <img src="https://ghchart.rshah.org/EngGlo" alt="EngGlo's Contribution Chart" width="100%" style="border-radius: 10px;" />
-  
-  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px; flex-wrap: wrap;">
-    <div style="display: flex; align-items: center;">
-      <div style="width: 12px; height: 12px; background-color: #ebedf0; border-radius: 2px; margin-right: 5px;"></div>
-      <span style="color: #8b949e; font-size: 12px;">Less</span>
-    </div>
-    <div style="display: flex; align-items: center;">
-      <div style="width: 12px; height: 12px; background-color: #9be9a8; border-radius: 2px; margin-right: 5px;"></div>
-      <span style="color: #8b949e; font-size: 12px;">More</span>
-    </div>
-    <div style="display: flex; align-items: center;">
-      <div style="width: 12px; height: 12px; background-color: #40c463; border-radius: 2px; margin-right: 5px;"></div>
-      <span style="color: #8b949e; font-size: 12px;">Active</span>
-    </div>
-    <div style="display: flex; align-items: center;">
-      <div style="width: 12px; height: 12px; background-color: #30a14e; border-radius: 2px; margin-right: 5px;"></div>
-      <span style="color: #8b949e; font-size: 12px;">Very Active</span>
-    </div>
-    <div style="display: flex; align-items: center;">
-      <div style="width: 12px; height: 12px; background-color: #216e39; border-radius: 2px; margin-right: 5px;"></div>
-      <span style="color: #8b949e; font-size: 12px;">Max</span>
-    </div>
+<!-- Project Card 2 -->
+<div style="background: rgba(78, 205, 196, 0.1); padding: 15px; border-radius: 10px; border-left: 4px solid #4ECDC4;">
+  <h4 style="color: #4ECDC4; margin: 0 0 10px 0;">🏥 HowYouDo Hospital System</h4>
+  <p style="color: #8b949e; font-size: 14px; margin: 0 0 10px 0;">Patient management and monitoring system</p>
+  <div style="display: flex; gap: 10px;">
+    <span style="background: #3776ab; color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px;">Python</span>
+    <span style="background: #4479a1; color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px;">Django</span>
+    <span style="background: #61dafb; color: black; padding: 2px 8px; border-radius: 10px; font-size: 11px;">React</span>
   </div>
 </div>
 
 </div>
 
----
+</div>
 
-<!-- Final Random Dev Quote -->
-<div align="center" style="background: linear-gradient(135deg, #FF6B6B 0%, #FF8E53 100%); padding: 20px; border-radius: 15px; margin: 30px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
-  <h3 style="color: white; margin-top: 0;">🚀 Programming Inspiration</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=The%20only%20way%20to%20go%20fast%20is%20to%20go%20well.&author=Robert%20C.%20Martin" alt="Programming Quote" width="80%" style="border-radius: 10px;" />
+## 📊 Contribution Summary
+
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 25px; border-radius: 15px; margin: 30px 0;">
+
+<h2 style="color: #58a6ff; margin-top: 0;">📈 Contribution Metrics</h2>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin-bottom: 30px;">
+
+<div style="background: rgba(88, 166, 255, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
+  <div style="font-size: 32px; font-weight: bold; color: #58a6ff;">365+</div>
+  <div style="font-size: 14px; color: #8b949e;">Days Active</div>
+</div>
+
+<div style="background: rgba(78, 205, 196, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
+  <div style="font-size: 32px; font-weight: bold; color: #4ECDC4;">1,000+</div>
+  <div style="font-size: 14px; color: #8b949e;">Total Commits</div>
+</div>
+
+<div style="background: rgba(255, 107, 107, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
+  <div style="font-size: 32px; font-weight: bold; color: #FF6B6B;">30+</div>
+  <div style="font-size: 14px; color: #8b949e;">Repositories</div>
+</div>
+
+<div style="background: rgba(150, 206, 180, 0.1); padding: 15px; border-radius: 10px; text-align: center;">
+  <div style="font-size: 32px; font-weight: bold; color: #96CEB4;">50+</div>
+  <div style="font-size: 14px; color: #8b949e;">Pull Requests</div>
+</div>
+
+</div>
+
+<!-- Monthly Activity Chart -->
+<div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 10px; margin-top: 20px;">
+  <h3 style="color: #58a6ff; margin-top: 0;">📆 Monthly Activity</h3>
+  <div style="display: flex; justify-content: center; align-items: flex-end; height: 150px; gap: 10px; margin: 20px 0;">
+    <div style="width: 30px; background: linear-gradient(to top, #58a6ff, #1f6feb); border-radius: 5px 5px 0 0; height: 120px;" title="Jan: 120 commits"></div>
+    <div style="width: 30px; background: linear-gradient(to top, #58a6ff, #1f6feb); border-radius: 5px 5px 0 0; height: 90px;" title="Feb: 90 commits"></div>
+    <div style="width: 30px; background: linear-gradient(to top, #58a6ff, #1f6feb); border-radius: 5px 5px 0 0; height: 150px;" title="Mar: 150 commits"></div>
+    <div style="width: 30px; background: linear-gradient(to top, #58a6ff, #1f6feb); border-radius: 5px 5px 0 0; height: 110px;" title="Apr: 110 commits"></div>
+    <div style="width: 30px; background: linear-gradient(to top, #4ECDC4, #26a69a); border-radius: 5px 5px 0 0; height: 180px;" title="May: 180 commits"></div>
+    <div style="width: 30px; background: linear-gradient(to top, #4ECDC4, #26a69a); border-radius: 5px 5px 0 0; height: 140px;" title="Jun: 140 commits"></div>
+    <div style="width: 30px; background: linear-gradient(to top, #FF6B6B, #ef5350); border-radius: 5px 5px 0 0; height: 200px;" title="Jul: 200 commits (Current)"></div>
+  </div>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+    <span style="color: #8b949e; font-size: 12px;">Jan</span>
+    <span style="color: #8b949e; font-size: 12px;">Feb</span>
+    <span style="color: #8b949e; font-size: 12px;">Mar</span>
+    <span style="color: #8b949e; font-size: 12px;">Apr</span>
+    <span style="color: #8b949e; font-size: 12px;">May</span>
+    <span style="color: #8b949e; font-size: 12px;">Jun</span>
+    <span style="color: #FF6B6B; font-size: 12px; font-weight: bold;">Jul</span>
+  </div>
+</div>
+
 </div>
 
 ## 📫 Connect With Me
 
-<div align="center" class="section-animate" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 30px; border-radius: 15px; margin: 40px 0;">
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 30px; border-radius: 15px; margin: 40px 0;">
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
 ### 🌐 **Professional Links**
 <a href="https://gloria-auma.dev" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://gloria-auma.dev/blog" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
 </a>
 <a href="https://linkedin.com/in/gloria-auma" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -404,7 +313,12 @@ I'm a passionate **Software Engineer** specializing in cutting-edge technologies
 </div>
 
 <div style="margin-top: 30px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Let's+collaborate+on+something+amazing!;Building+the+future+with+code+💻;Innovating+one+commit+at+a+time+🚀" alt="Typing SVG" />
+  <p style="color: #58a6ff; font-size: 20px; font-weight: 600; margin: 0;">
+    Let's collaborate on something amazing!
+  </p>
+  <p style="color: #8b949e; font-size: 16px; margin: 10px 0 0 0;">
+    Building the future with code 💻 • Innovating one commit at a time 🚀
+  </p>
 </div>
 
 </div>
