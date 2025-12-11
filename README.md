@@ -56,16 +56,17 @@ I enjoy solving hard problems, building elegant UIs, and researching real-world 
 ---
 
 ### 📌 Featured Projects
+### 📌 Featured Projects
 
 <p align="center">
-  <a href=" https://github.com/EngGlo/lane-detection-comparator">
+  <!-- Top 5 -->
+  <a href="https://github.com/EngGlo/lane-detection-evaluator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=lane-detection-evaluator&theme=tokyonight" />
   </a>
- 
   <a href="https://github.com/EngGlo/gan-brain-tumor-detector">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=gan-brain-tumor-detector&theme=tokyonight" />
   </a>
-  <a href="https://github.com/EngGlo/fluent-client-command/">
+  <a href="https://github.com/EngGlo/sdr-interface-prototype">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=sdr-interface-prototype&theme=tokyonight" />
   </a>
   <a href="https://github.com/EngGlo/laravel-nuxt-event-system">
@@ -74,37 +75,8 @@ I enjoy solving hard problems, building elegant UIs, and researching real-world 
   <a href="https://github.com/EngGlo/howyoudo-in-hospital">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=howyoudo-in-hospital&theme=tokyonight" />
   </a>
-  <a href="https://github.com/EngGlo/hass-database-report">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=hass-database-report&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/EngGlo/tangram-puzzle-solver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=tangram-puzzle-solver&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/EngGlo/python-parser-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=python-parser-generator&theme=tokyonight" />
-  </a>
 </p>
 
----
-
-<p align="center">
-  <!-- Contact and Social Links -->
-  <a href="mailto:gloriaauma14@gmail.com"><img src="https://img.shields.io/badge/Email-gloriaauma14@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/gloria-auma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Gloria_Auma-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://gloria-auma.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-gloria--auma.dev-29B6F6?style=flat&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/EngGlo"><img src="https://img.shields.io/github/followers/EngGlo?label=Follow&style=social" /></a>
-</p>
-
-<!-- Achievement Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EngGlo&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/stars/EngGlo?label=GitHub+Stars&style=flat&logo=github" />
-  <img src="https://img.shields.io/github/contributions/EngGlo/2024?label=2024+Contributions&color=blueviolet" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-Yes-brightgreen?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/Commits-Consistent%20Committer-yellowgreen?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/100%2B%20Projects-Completed-blue?style=flat&logo=codeforces" />
-  <img src="https://img.shields.io/badge/Stack%20Overflow-5k%2B%20Reputation-orange?style=flat&logo=stackoverflow" />
-</p>
 
 
 ### 🌍 Let's Connect
