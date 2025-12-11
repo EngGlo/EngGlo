@@ -1,134 +1,312 @@
-<!-- README.md for https://github.com/EngGlo | Premium Tokyonight Neon Edition -->
+<!-- README.md for https://github.com/EngGlo -->
 
-<p align="center">
-  <img src="https://github.com/EngGlo/EngGlo/blob/main/banner.png" alt="Gloria Auma Banner" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">👩🏾‍💻 Gloria Auma</h1>
-<h3 align="center">Software Engineer | Cybersecurity Specialist | AI Researcher</h3>
+<!-- Animated Banner with Glow Effect -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EngGlo/EngGlo/blob/main/banner.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EngGlo/EngGlo/blob/main/banner.png">
+  <img src="https://github.com/EngGlo/EngGlo/blob/main/banner.png" alt="Gloria Auma Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0, 255, 255, 0.3); animation: float 6s ease-in-out infinite;">
+</picture>
 
-<p align="center">
-  <a href="mailto:gloriaauma14@gmail.com"><img src="https://img.shields.io/badge/Email-gloriaauma14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/gloria-auma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Gloria_Auma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://gloria-auma.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-gloria--auma.dev-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/EngGlo"><img src="https://img.shields.io/github/followers/EngGlo?label=Follow&style=for-the-badge&color=blue" /></a>
-</p>
+<!-- Animated Title -->
+<h1 align="center" style="margin-top: 20px;">
+  <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FFEAA7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; animation: gradient 5s ease infinite; background-size: 400% 400%;">👩🏾‍💻 Gloria Auma</span>
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EngGlo&style=for-the-badge&color=blueviolet" />
-</p>
+<h3 align="center" style="font-weight: 300; margin-bottom: 30px;">
+  Software Engineer | Cybersecurity Specialist | AI Researcher
+</h3>
 
----
-
-## 🚀 About Me
-
-I'm a passionate software engineer with experience in:
-
-- 🧠 **Machine Learning & Medical Imaging** — GANs for MRI synthesis & CNN tumor detection  
-- 🧠 **Data Science** — Lane Detection in Kaggle  
-- 🔐 **Cybersecurity & Compiler Design** — Lexical analyzers, Python parsers, stealth tools  
-- 🌐 **Web & Full Stack Development** — Laravel + Nuxt 3 + TypeScript + React + ExpressJs + Django + Flask + Tailwind CSS  
-- 🛰 **Embedded Systems & SDR** — FPGA, USB 3.0 communication, and RaspiCar deployment  
-
-I’m driven by **innovation**, **high-impact builds**, and **clean engineering design**.
-
----
-
-## 🛠️ My Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,vue,nuxt,react,laravel,html,css,tailwind,postgres,mysql,docker,git,linux,bash,vscode,figma,flutter,django,nodejs,express" />
-</p>
-
----
-
-# 📊 GitHub Stats (Fully Visible + Working)
-
-### 🔥 Profile Stats + Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngGlo&show_icons=true&count_private=true&hide=issues&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngGlo&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
-</p>
-
----
-
-### ⚡ GitHub Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EngGlo&theme=tokyonight&mode=weekly" width="95%" />
-</p>
-
----
-
-### 🌐 Commit & Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngGlo&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-### 🐍 Contribution Snake Animation  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EngGlo/EngGlo/output/snake.svg" />
-</p>
-
----
-
-### 🧭 Wakatime Coding Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EngGlo&theme=tokyonight&border_radius=10" width="70%" />
-</p>
-
----
-
-### 🏆 GitHub Trophy  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EngGlo&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=5" />
-</p>
-
----
-
-### 🛰️ 3D GitHub Skyline  
-<p align="center">
-  <a href="https://skyline.github.com/EngGlo/2024">
-    <img src="https://github.com/EngGlo/EngGlo/blob/main/skyline.gif" width="90%" />
+<!-- Animated Badges Row -->
+<div align="center" style="margin-bottom: 40px;">
+  
+  <!-- Profile Badges -->
+  <a href="mailto:gloriaauma14@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-gloriaauma14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
-</p>
+  
+  <a href="https://linkedin.com/in/gloria-auma" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Gloria_Auma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  
+  <a href="https://gloria-auma.dev" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-gloria--auma.dev-29B6F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" alt="Portfolio" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  
+  <a href="https://github.com/EngGlo" style="text-decoration: none;">
+    <img src="https://img.shields.io/github/followers/EngGlo?style=for-the-badge&logo=github&label=Followers&color=7B42F6&labelColor=1a1a1a" alt="GitHub Followers" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  
+  <a href="https://github.com/EngGlo?tab=repositories" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Repositories-30+-blueviolet?style=for-the-badge&logo=github&labelColor=1a1a1a" alt="Repositories" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+
+</div>
+
+<!-- Live Stats Counter -->
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 15px; margin-bottom: 30px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+  <h3 style="color: white; margin-bottom: 10px;">📊 Live GitHub Statistics</h3>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://komarev.com/ghpvc/?username=EngGlo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" style="background-color: white; padding: 5px 10px; border-radius: 20px;">
+    <img src="https://badges.pufler.dev/commits/monthly/EngGlo" alt="Monthly Commits" style="background-color: white; padding: 5px 10px; border-radius: 20px;">
+    <img src="https://badges.pufler.dev/repos/EngGlo" alt="Repositories" style="background-color: white; padding: 5px 10px; border-radius: 20px;">
+  </div>
+</div>
+
+</div>
+
+<!-- CSS Animations -->
+<style>
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+  }
+  
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  .section-animate {
+    animation: fadeIn 1s ease-out;
+  }
+</style>
 
 ---
 
-## 📌 Featured Projects (Top 5 – Auto Highlighted)
+## 🌟 About Me
 
-<p align="center">
-  <a href="https://github.com/EngGlo/lane-detection-evaluator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=lane-detection-evaluator&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/EngGlo/gan-brain-tumor-detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=gan-brain-tumor-detector&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/EngGlo/sdr-interface-prototype">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=sdr-interface-prototype&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/EngGlo/laravel-nuxt-event-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=laravel-nuxt-event-system&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/EngGlo/howyoudo-in-hospital">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=howyoudo-in-hospital&theme=tokyonight" />
-  </a>
-</p>
+<div class="section-animate" style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 25px; border-radius: 15px; margin: 20px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+
+I'm a passionate **Software Engineer** specializing in cutting-edge technologies with expertise spanning across multiple domains. My work bridges the gap between theoretical research and practical implementation.
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
+
+### 🧠 **AI & Machine Learning**
+- **Medical Imaging**: GANs for MRI synthesis & CNN tumor detection
+- **Computer Vision**: Lane Detection (Kaggle competition)
+- **Deep Learning**: Neural networks for real-world applications
+
+### 🔐 **Cybersecurity & Systems**
+- **Compiler Design**: Lexical analyzers & Python parsers
+- **Security Tools**: Stealth tools & penetration testing utilities
+- **System Architecture**: Secure system design
+
+### 🌐 **Full Stack Development**
+- **Frontend**: React, Vue.js, Nuxt 3, TypeScript, Tailwind CSS
+- **Backend**: Laravel, Express.js, Django, Flask, Node.js
+- **Databases**: PostgreSQL, MySQL, MongoDB
+
+### 🛰 **Embedded & Hardware**
+- **FPGA Development**: Digital circuit design
+- **SDR Projects**: Software Defined Radio interfaces
+- **RaspiCar**: Autonomous vehicle deployment
+
+</div>
+
+</div>
 
 ---
 
-## 🧬 Terminal Bio (Animated)
+## 🛠️ Tech Stack & Tools
 
-```bash
-> whoami
-> EngGlo
+<div align="center" class="section-animate">
 
-> role
-Software Engineer | AI Researcher | Cybersecurity Specialist
+### 🎯 **Primary Technologies**
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,rust" title="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nuxt,next,tailwind" title="Frontend" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,django,flask" title="Backend" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" title="Databases" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure" title="DevOps & Cloud" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,bash" title="Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,postman" title="Design & Testing" />
+</div>
 
-> focus
-AI • Full-stack • Embedded • Secure Systems
+### 📊 **Specialized Skills**
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</div>
 
-> status
-Building world-changing tech...
+</div>
+
+---
+
+## 📊 GitHub Analytics & Metrics
+
+<div class="section-animate" align="center">
+
+### 📈 **Activity Overview**
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 30px;">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=EngGlo&show_icons=true&count_private=true&hide=issues&theme=radical&border_radius=15&hide_border=false&bg_color=30,0d1117,161b22&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=Gloria's+GitHub+Stats&include_all_commits=true&card_width=450" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngGlo&layout=compact&theme=radical&border_radius=15&hide_border=false&bg_color=30,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=350" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);" />
+
+</div>
+
+### 🔥 **Streak & Contribution Graph**
+
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=EngGlo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=45%2C0d1117%2C161b22&border_radius=15&fire=FF6B6B&ring=4ECDC4&currStreakLabel=4ECDC4&sideLabels=58a6ff&dates=8a8a8a&sideNums=58a6ff" alt="GitHub Streak" width="100%" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); margin-bottom: 30px;" />
+
+<!-- Activity Graph -->
+<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+  <h3 style="color: #58a6ff; margin-top: 0;">📅 Contribution Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngGlo&theme=react-dark&bg_color=0d1117&color=58a6ff&line=4ECDC4&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution+Graph" alt="Contribution Graph" width="100%" />
+</div>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div class="section-animate" align="center">
+
+### ⭐ **Top Pinned Repositories**
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
+
+<!-- Project 1 -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
+  <h3>🧠 GAN Brain Tumor Detector</h3>
+  <p>Advanced GANs for MRI synthesis & CNN tumor detection</p>
+  <div>
+    <img src="https://img.shields.io/github/stars/EngGlo/gan-brain-tumor-detector?style=flat-square&label=Stars&color=FFD700" alt="Stars">
+    <img src="https://img.shields.io/github/forks/EngGlo/gan-brain-tumor-detector?style=flat-square&label=Forks&color=4ECDC4" alt="Forks">
+  </div>
+</div>
+
+<!-- Project 2 -->
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; color: white; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
+  <h3>🛣️ Lane Detection Evaluator</h3>
+  <p>Kaggle competition project for lane detection algorithms</p>
+  <div>
+    <img src="https://img.shields.io/github/stars/EngGlo/lane-detection-evaluator?style=flat-square&label=Stars&color=FFD700" alt="Stars">
+    <img src="https://img.shields.io/github/forks/EngGlo/lane-detection-evaluator?style=flat-square&label=Forks&color=4ECDC4" alt="Forks">
+  </div>
+</div>
+
+<!-- Project 3 -->
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; color: white; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
+  <h3>📡 SDR Interface Prototype</h3>
+  <p>Software Defined Radio interface for embedded systems</p>
+  <div>
+    <img src="https://img.shields.io/github/stars/EngGlo/sdr-interface-prototype?style=flat-square&label=Stars&color=FFD700" alt="Stars">
+    <img src="https://img.shields.io/github/forks/EngGlo/sdr-interface-prototype?style=flat-square&label=Forks&color=4ECDC4" alt="Forks">
+  </div>
+</div>
+
+</div>
+
+### 📂 **More Project Cards**
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px;">
+
+<a href="https://github.com/EngGlo/laravel-nuxt-event-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=laravel-nuxt-event-system&theme=radical&border_radius=10&bg_color=30,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9" alt="Laravel Nuxt Event System" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+</a>
+
+<a href="https://github.com/EngGlo/howyoudo-in-hospital">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=howyoudo-in-hospital&theme=radical&border_radius=10&bg_color=30,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9" alt="HowYouDo Hospital System" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+</a>
+
+<a href="https://github.com/EngGlo/Compiler-Design-Python-Parser">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=Compiler-Design-Python-Parser&theme=radical&border_radius=10&bg_color=30,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9" alt="Python Parser" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+</a>
+
+<a href="https://github.com/EngGlo/raspberry-pi-security-camera">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngGlo&repo=raspberry-pi-security-camera&theme=radical&border_radius=10&bg_color=30,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9" alt="Raspberry Pi Security Camera" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+</a>
+
+</div>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center" class="section-animate">
+
+<img src="https://github-profile-trophy.vercel.app/?username=EngGlo&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub Trophies" width="100%" style="border-radius: 15px;" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center" class="section-animate" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 30px; border-radius: 15px; margin: 40px 0;">
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+### 🌐 **Professional Links**
+<a href="https://gloria-auma.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://gloria-auma.dev/blog" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+</a>
+<a href="https://linkedin.com/in/gloria-auma" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/eng_glo" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+
+### 📧 **Contact**
+<a href="mailto:gloriaauma14@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://calendly.com/gloria-auma">
+  <img src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" />
+</a>
+
+### 💻 **Coding Platforms**
+<a href="https://leetcode.com/u/EngGlo/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="https://www.kaggle.com/engglo" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
+<a href="https://dev.to/engglo" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+</a>
+
+</div>
+
+<div style="margin-top: 30px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Let's+collaborate+on+something+amazing!;Building+the+future+with+code+💻;Innovating+one+commit+at+a+time+🚀" alt="Typing SVG" />
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ **Quick Stats**
+  
+```text
+💻 Currently Working: AI Medical Imaging Projects
+📚 Learning: Advanced Cybersecurity & Quantum Computing
+🎯 Goal: Contribute to Open Source Healthcare Tech
+🌟 Fun Fact: I love mixing hardware with AI solutions!
